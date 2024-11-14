@@ -245,28 +245,27 @@
 }
 
 .person_name_feynman {
-  right: 319px;
-top: -30px;
+  top: -30px;
+  left: 319px;
 }
-
 .person_name_burbidge {
  top: 96px;
- left: 125px;
+ right: 125px;
 }
 
 .person_name_cannon {
  bottom: 18px;
- left: 216px;
+ right: 216px;
 }
 
 .person_name_mitchell {
-  right: 142px;
   bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
- right: 159px;
- top: 79px;
+  top: 79px;
+ left: 159px;
 }
 
 .person__image {
